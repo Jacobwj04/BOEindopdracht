@@ -483,6 +483,11 @@ We kwammen aan na 2 dagen lopen maar ik ben blij ik kan eindelijk geen zorgen ma
 Ik ben heel te vreden over hoe het nu gaat en voor het eerst ben ik blij.
 """
 
+aangekomen3AB = """
+A: Ga het leger in
+B: Vlucht naar Terkije
+"""
+
 #als je B kiest voor blijf2AB doe je dit
 
 vriend1 = """
@@ -507,12 +512,6 @@ vlucht1AB = """
 A: Naar stad.
 B: Terkijke
 """
-
-aangekomen3AB = """
-A: Ga het leger in
-B: Vlucht naar Terkije
-"""
-
 
 #print gelijk aangekomen3 daar onder
 
